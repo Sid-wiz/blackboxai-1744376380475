@@ -1,0 +1,10 @@
+/* Custom styles can be added here */
+
+/* Example: Customizing the button styles */
+button {
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #3b82f6; /* Darker blue on hover */
+}
